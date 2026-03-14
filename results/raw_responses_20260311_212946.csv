@@ -1,0 +1,4 @@
+model,prompt,response_text
+claude,Explain artificial intelligence in one sentence,"ERROR Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYxQ6opBQiPC4weKDDUbE'}"
+claude,What is the capital of France?,"ERROR Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYxQ6ptfr1m27fbArWjhs'}"
+claude,Give one benefit of exercise,"ERROR Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYxQ6qwg94TTHdo2XEqUy'}"

@@ -1,0 +1,301 @@
+vignette_id,condition_id,model_name,run,response_text
+V01,C01,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V01,C01,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V01,C01,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V02,C01,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V02,C01,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V02,C01,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V03,C01,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V03,C01,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V03,C01,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V04,C01,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V04,C01,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V04,C01,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V05,C01,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V05,C01,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V05,C01,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V06,C02,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V06,C02,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V06,C02,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V07,C02,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V07,C02,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V07,C02,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V08,C02,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V08,C02,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V08,C02,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V09,C02,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V09,C02,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V09,C02,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V10,C02,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V10,C02,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V10,C02,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V11,C03,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V11,C03,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V11,C03,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V12,C03,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V12,C03,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V12,C03,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V13,C03,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V13,C03,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V13,C03,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V14,C03,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V14,C03,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V14,C03,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V15,C03,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V15,C03,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V15,C03,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V16,C04,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V16,C04,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V16,C04,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V17,C04,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V17,C04,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V17,C04,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V18,C04,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V18,C04,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V18,C04,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V19,C04,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V19,C04,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V19,C04,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V20,C04,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V20,C04,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V20,C04,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V21,C05,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V21,C05,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V21,C05,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V22,C05,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V22,C05,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V22,C05,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V23,C05,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V23,C05,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V23,C05,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V24,C05,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V24,C05,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V24,C05,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V25,C05,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V25,C05,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V25,C05,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V26,C06,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V26,C06,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V26,C06,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V27,C06,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V27,C06,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V27,C06,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V28,C06,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V28,C06,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V28,C06,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V29,C06,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V29,C06,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V29,C06,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V30,C06,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V30,C06,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V30,C06,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V31,C07,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V31,C07,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V31,C07,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V32,C07,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V32,C07,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V32,C07,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V33,C07,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V33,C07,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V33,C07,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V34,C07,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V34,C07,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V34,C07,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V35,C07,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V35,C07,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V35,C07,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V36,C08,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V36,C08,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V36,C08,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V37,C08,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V37,C08,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V37,C08,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V38,C08,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V38,C08,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V38,C08,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V39,C08,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V39,C08,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V39,C08,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V40,C08,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V40,C08,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V40,C08,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V41,C09,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V41,C09,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V41,C09,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V42,C09,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V42,C09,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V42,C09,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V43,C09,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V43,C09,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V43,C09,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V44,C09,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V44,C09,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V44,C09,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V45,C09,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V45,C09,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V45,C09,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V46,C10,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V46,C10,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V46,C10,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V47,C10,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V47,C10,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V47,C10,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V48,C10,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V48,C10,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V48,C10,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V49,C10,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V49,C10,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V49,C10,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V50,C10,GPT-4o,1,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V50,C10,GPT-4o,2,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V50,C10,GPT-4o,3,ERROR The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+V01,C01,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V01,C01,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V01,C01,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V02,C01,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V02,C01,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V02,C01,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V03,C01,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V03,C01,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V03,C01,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V04,C01,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V04,C01,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V04,C01,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V05,C01,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V05,C01,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V05,C01,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V06,C02,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V06,C02,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V06,C02,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V07,C02,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V07,C02,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V07,C02,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V08,C02,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V08,C02,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V08,C02,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V09,C02,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V09,C02,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V09,C02,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V10,C02,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V10,C02,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V10,C02,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V11,C03,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V11,C03,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V11,C03,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V12,C03,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V12,C03,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V12,C03,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V13,C03,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V13,C03,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V13,C03,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V14,C03,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V14,C03,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V14,C03,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V15,C03,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V15,C03,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V15,C03,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V16,C04,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V16,C04,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V16,C04,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V17,C04,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V17,C04,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V17,C04,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V18,C04,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V18,C04,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V18,C04,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V19,C04,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V19,C04,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V19,C04,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V20,C04,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V20,C04,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V20,C04,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V21,C05,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V21,C05,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V21,C05,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V22,C05,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V22,C05,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V22,C05,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V23,C05,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V23,C05,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V23,C05,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V24,C05,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V24,C05,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V24,C05,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V25,C05,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V25,C05,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V25,C05,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V26,C06,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V26,C06,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V26,C06,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V27,C06,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V27,C06,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V27,C06,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V28,C06,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V28,C06,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V28,C06,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V29,C06,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V29,C06,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V29,C06,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V30,C06,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V30,C06,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V30,C06,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V31,C07,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V31,C07,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V31,C07,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V32,C07,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V32,C07,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V32,C07,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V33,C07,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V33,C07,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V33,C07,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V34,C07,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V34,C07,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V34,C07,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V35,C07,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V35,C07,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V35,C07,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V36,C08,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V36,C08,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V36,C08,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V37,C08,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V37,C08,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V37,C08,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V38,C08,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V38,C08,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V38,C08,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V39,C08,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V39,C08,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V39,C08,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V40,C08,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V40,C08,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V40,C08,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V41,C09,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V41,C09,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V41,C09,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V42,C09,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V42,C09,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V42,C09,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V43,C09,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V43,C09,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V43,C09,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V44,C09,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V44,C09,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V44,C09,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V45,C09,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V45,C09,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V45,C09,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V46,C10,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V46,C10,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V46,C10,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V47,C10,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V47,C10,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V47,C10,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V48,C10,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V48,C10,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V48,C10,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V49,C10,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V49,C10,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V49,C10,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V50,C10,Claude,1,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V50,C10,Claude,2,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""
+V50,C10,Claude,3,"ERROR ""Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"""

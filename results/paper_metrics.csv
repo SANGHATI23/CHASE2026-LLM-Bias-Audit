@@ -1,0 +1,12 @@
+metric,value
+rows,150.0
+mean_gpt4o_score,3.46
+mean_llama_score,3.58
+mean_heuristic_score,4.6466666666666665
+mean_score,3.895555555555557
+krippendorff_alpha,0.0273671880778243
+overall_mean,3.895555555555557
+overall_std,0.5108260074394639
+asdi_raw,0.0733333333333333
+asdi_z,0.1435583393667046
+anova_p_value,0.8735094320545468
