@@ -645,11 +645,3 @@ python-dotenv>=1.0.0
 This repository is made available for academic research and reproducibility purposes under the terms of the MIT License.
 
 All experimental vignettes are synthetically constructed — no real patient data were used or are included in this repository.
-
----
-
-<div align="center">
-
-*This work forms Chapter 1 of a doctoral research program examining AI trustworthiness and equity governance across the clinical AI deployment lifecycle. Subsequent chapters will extend the audit framework to longitudinal EHR data, multilingual clinical LLMs, and federated health system deployment contexts.*
-
-</div>
