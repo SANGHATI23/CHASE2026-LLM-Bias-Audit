@@ -1,7 +1,3 @@
-# CHASE 2026 — LLM SDoH Screening Fairness Audit
-
-<div align="center">
-
 ![CHASE 2026](https://img.shields.io/badge/Venue-CHASE%202026-blue)
 ![Track](https://img.shields.io/badge/Track-%2311%20GenAI%20for%20Health%20Disparities-green)
 ![Status](https://img.shields.io/badge/Status-Under%20Review-yellow)
